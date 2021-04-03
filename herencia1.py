@@ -10,3 +10,8 @@ class Animal:
         print("NOMBRE: ", self.nombre)
         print("NÚMERO DE PATAS: ", self.numero_patas)
         print("TAMAÑO: ", self.tamaño)
+
+# CREANDO OBJETOS DE LA CLASE ANIMAL
+
+perro1 = Animal()
+perro1.mostrarDatos()
