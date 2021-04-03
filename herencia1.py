@@ -18,3 +18,6 @@ perro1.mostrarDatos()
 
 gato1 = Animal()
 gato1.mostrarDatos()
+
+conejo1 = Animal()
+conejo1.mostrarDatos()
