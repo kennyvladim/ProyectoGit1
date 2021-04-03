@@ -15,3 +15,6 @@ class Animal:
 
 perro1 = Animal()
 perro1.mostrarDatos()
+
+gato1 = Animal()
+gato1.mostrarDatos()
